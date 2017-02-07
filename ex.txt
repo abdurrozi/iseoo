@@ -1,1 +1,2 @@
 This is Checkpoint GIT Aziz
+Commit baru
